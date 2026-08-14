@@ -92,7 +92,7 @@
             "last_commit": "2026-03-09T04:21:55Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 8223
+            "stars": 8228
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-07-22T19:16:16Z",
             "owner": "mijorus",
             "repo": "gearlever",
-            "stars": 2095
+            "stars": 2096
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-07T10:25:43Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7594
+            "stars": 7595
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2024-06-14T12:39:25Z",
             "owner": "srevinsaju",
             "repo": "zap",
-            "stars": 594
+            "stars": 593
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-13T02:31:50Z",
             "owner": "ivan-hc",
             "repo": "AppMan",
-            "stars": 335
+            "stars": 336
           }
         },
         {
@@ -530,7 +530,7 @@
           "repo_info": {
             "archived": false,
             "language": "Starlark",
-            "last_commit": "2026-08-12T21:15:59Z",
+            "last_commit": "2026-08-14T04:41:42Z",
             "owner": "lalten",
             "repo": "rules_appimage",
             "stars": 39
@@ -1015,7 +1015,7 @@
             "last_commit": "2026-07-22T15:16:22Z",
             "owner": "Project-LemonLime",
             "repo": "Project_LemonLime",
-            "stars": 702
+            "stars": 703
           }
         },
         {
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:01:27.743Z",
+    "last_updated": "2026-08-14T13:56:41.464Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
     "enhanced_repository": "enhansome/enhansome-appimage",
