@@ -92,7 +92,7 @@
             "last_commit": "2026-03-09T04:21:55Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 8228
+            "stars": 8229
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-07-22T19:16:16Z",
             "owner": "mijorus",
             "repo": "gearlever",
-            "stars": 2096
+            "stars": 2097
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-07T10:25:43Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7595
+            "stars": 7596
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-10-13T12:58:41Z",
             "owner": "vinifmor",
             "repo": "bauh",
-            "stars": 1393
+            "stars": 1395
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2024-06-14T12:39:25Z",
             "owner": "srevinsaju",
             "repo": "zap",
-            "stars": 593
+            "stars": 594
           }
         },
         {
@@ -345,10 +345,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T02:31:50Z",
+            "last_commit": "2026-08-15T01:34:24Z",
             "owner": "ivan-hc",
             "repo": "AppMan",
-            "stars": 336
+            "stars": 338
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2025-09-01T14:14:28Z",
             "owner": "nix-community",
             "repo": "nix-bundle",
-            "stars": 853
+            "stars": 854
           }
         }
       ],
@@ -688,10 +688,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:43:47Z",
+            "last_commit": "2026-08-15T01:24:04Z",
             "owner": "electron-userland",
             "repo": "electron-builder",
-            "stars": 14640
+            "stars": 14641
           }
         },
         {
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:56:41.464Z",
+    "last_updated": "2026-08-15T13:09:33.876Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
     "enhanced_repository": "enhansome/enhansome-appimage",
