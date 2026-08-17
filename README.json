@@ -92,7 +92,7 @@
             "last_commit": "2026-03-09T04:21:55Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 8231
+            "stars": 8236
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-07-22T19:16:16Z",
             "owner": "mijorus",
             "repo": "gearlever",
-            "stars": 2100
+            "stars": 2107
           }
         },
         {
@@ -283,10 +283,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T17:30:10Z",
+            "last_commit": "2026-08-16T23:01:31Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7597
+            "stars": 7599
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-10-13T12:58:41Z",
             "owner": "vinifmor",
             "repo": "bauh",
-            "stars": 1395
+            "stars": 1396
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2025-09-01T14:14:28Z",
             "owner": "nix-community",
             "repo": "nix-bundle",
-            "stars": 854
+            "stars": 855
           }
         }
       ],
@@ -567,7 +567,7 @@
             "last_commit": "2025-10-21T18:08:31Z",
             "owner": "probonopd",
             "repo": "linuxdeployqt",
-            "stars": 2467
+            "stars": 2468
           }
         },
         {
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:11:03.344Z",
+    "last_updated": "2026-08-17T13:22:49.520Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
     "enhanced_repository": "enhansome/enhansome-appimage",
