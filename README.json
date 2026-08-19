@@ -744,7 +744,7 @@
                 "last_commit": "2026-08-19T01:18:36Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14643
+                "stars": 14642
               }
             },
             {
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:12.574Z",
+    "last_updated": "2026-08-19T13:26:55.133Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
