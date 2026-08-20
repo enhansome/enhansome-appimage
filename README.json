@@ -97,7 +97,7 @@
                 "last_commit": "2026-03-09T04:21:55Z",
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8242
+                "stars": 8243
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-07-22T19:16:16Z",
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2111
+                "stars": 2115
               }
             },
             {
@@ -303,10 +303,10 @@
                 "archived": false,
                 "id": 40418146,
                 "language": "C",
-                "last_commit": "2026-08-17T17:13:26Z",
+                "last_commit": "2026-08-19T17:09:18Z",
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7601
+                "stars": 7599
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2024-06-14T12:39:25Z",
                 "owner": "srevinsaju",
                 "repo": "zap",
-                "stars": 596
+                "stars": 597
               }
             },
             {
@@ -555,7 +555,7 @@
                 "archived": false,
                 "id": 178573585,
                 "language": "Python",
-                "last_commit": "2026-08-04T20:29:12Z",
+                "last_commit": "2026-08-19T21:03:41Z",
                 "owner": "TheAssassin",
                 "repo": "appimagecraft",
                 "stars": 53
@@ -741,10 +741,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T01:18:36Z",
+                "last_commit": "2026-08-19T16:08:48Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14642
+                "stars": 14643
               }
             },
             {
@@ -759,7 +759,7 @@
                 "last_commit": "2023-02-03T17:13:18Z",
                 "owner": "sarwesh00",
                 "repo": "appnativefy",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:26:55.133Z",
+    "last_updated": "2026-08-20T13:28:53.451Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
