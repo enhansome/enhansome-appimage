@@ -97,7 +97,7 @@
                 "last_commit": "2026-03-09T04:21:55Z",
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8243
+                "stars": 8242
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-07-22T19:16:16Z",
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2115
+                "stars": 2117
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-19T17:09:18Z",
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7599
+                "stars": 7598
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2024-12-02T23:26:40Z",
                 "owner": "mgord9518",
                 "repo": "aisap",
-                "stars": 63
+                "stars": 64
               }
             }
           ],
@@ -373,7 +373,7 @@
                 "last_commit": "2026-08-16T02:16:24Z",
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 340
+                "stars": 341
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-01T00:13:48Z",
                 "owner": "linuxdeploy",
                 "repo": "linuxdeploy",
-                "stars": 814
+                "stars": 813
               }
             },
             {
@@ -741,10 +741,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T16:08:48Z",
+                "last_commit": "2026-08-20T17:29:33Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14643
+                "stars": 14644
               }
             },
             {
@@ -1258,7 +1258,7 @@
                 "last_commit": "2020-08-08T15:30:24Z",
                 "owner": "patrickelectric",
                 "repo": "mini-qml",
-                "stars": 48
+                "stars": 46
               }
             },
             {
@@ -1288,7 +1288,7 @@
                 "last_commit": "2021-03-23T22:46:50Z",
                 "owner": "Ravbug",
                 "repo": "wxWidgetsTemplate",
-                "stars": 16
+                "stars": 15
               }
             },
             {
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:28:53.451Z",
+    "last_updated": "2026-08-21T13:28:01.036Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
