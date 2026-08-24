@@ -485,6 +485,28 @@
           "description": "Note: The AppImage format is explicitly designed not to need any package managers or similar tools. Everything can be done in the file manager (and an optional daemon for system integration).",
           "node_type": "group",
           "title": "Package managers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Linux Mint",
+              "description": "Has an AppImage thumbnailer to show application icons on AppImage files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456596150,
+                "language": "Python",
+                "last_commit": "2026-06-16T15:16:24Z",
+                "owner": "linuxmint",
+                "repo": "xapp-thumbnailers",
+                "stars": 57
+              }
+            }
+          ],
+          "description": "Although the AppImage format was carefully designed not to need any special support from Linux distributions, there are some that offer varying degrees of AppImage friendliness out of the box.",
+          "node_type": "group",
+          "title": "Linux distributions"
         }
       ],
       "title": "AppImage consumption tools"
@@ -838,6 +860,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "nbPackager",
+              "description": "Packages NetBeans Platform Application with a JRE for AppImage, Linux, macOS and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256687108,
+                "language": "Java",
+                "last_commit": "2026-07-26T11:51:40Z",
+                "owner": "trixon",
+                "repo": "nbPackager",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment tools for Java applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PupNet Deploy",
               "description": "Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.",
               "children": [],
@@ -900,6 +944,50 @@
           "description": null,
           "node_type": "group",
           "title": "Deployment tools for .NET Core (Mono) applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flash-to-appimage",
+              "description": "Script to package a Flash game () into an AppImage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401662660,
+                "language": "Shell",
+                "last_commit": "2021-08-31T10:37:56Z",
+                "owner": "CredibleOpossum",
+                "repo": "flash-to-appimage",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment tools for Flash applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cargo AppImage",
+              "description": "Cargo program that allows you to convert your Rust programs into AppImages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365366353,
+                "language": "Rust",
+                "last_commit": "2025-08-09T22:35:38Z",
+                "owner": "StratusFearMe21",
+                "repo": "cargo-appimage",
+                "stars": 79
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment tools for Rust applications"
         },
         {
           "children": [
@@ -1336,6 +1424,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AppImageSpec",
+              "description": "Official specification for the AppImage format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61217862,
+                "language": null,
+                "last_commit": "2026-04-03T11:48:26Z",
+                "owner": "AppImage",
+                "repo": "AppImageSpec",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AppImage wiki",
               "description": "Official AppImage wiki.",
               "children": [],
@@ -1388,6 +1498,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Similar projects",
+              "description": "Comparison to other packaging systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9435153,
+                "language": null,
+                "last_commit": "2026-07-26T18:38:02Z",
+                "owner": "AppImage",
+                "repo": "AppImageKit",
+                "stars": 9414
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "awesome-linuxdeploy",
               "description": "Awesome list on linuxdeploy.",
               "children": [],
@@ -1433,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:32:10.671Z",
+    "last_updated": "2026-08-24T14:20:06.038Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
