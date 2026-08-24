@@ -97,7 +97,7 @@
                 "last_commit": "2026-03-09T04:21:55Z",
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8250
+                "stars": 8252
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-07-22T19:16:16Z",
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2127
+                "stars": 2129
               }
             },
             {
@@ -254,7 +254,7 @@
                 "last_commit": "2025-10-18T19:40:40Z",
                 "owner": "AppImageCommunity",
                 "repo": "AppImageUpdate",
-                "stars": 727
+                "stars": 728
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-22T14:33:26Z",
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7602
+                "stars": 7603
               }
             },
             {
@@ -506,7 +506,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9413
+                "stars": 9414
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-01T00:13:48Z",
                 "owner": "linuxdeploy",
                 "repo": "linuxdeploy",
-                "stars": 814
+                "stars": 815
               }
             },
             {
@@ -741,10 +741,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T15:48:49Z",
+                "last_commit": "2026-08-23T19:15:41Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14645
+                "stars": 14648
               }
             },
             {
@@ -1346,7 +1346,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9413
+                "stars": 9414
               }
             },
             {
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:12:47.754Z",
+    "last_updated": "2026-08-24T13:32:10.671Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
