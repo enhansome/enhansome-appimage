@@ -112,7 +112,7 @@
                 "last_commit": "2026-07-22T19:16:16Z",
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2132
+                "stars": 2133
               }
             },
             {
@@ -565,7 +565,7 @@
                 "last_commit": "2026-05-05T17:29:56Z",
                 "owner": "AppImageCrafters",
                 "repo": "appimage-builder",
-                "stars": 383
+                "stars": 384
               }
             },
             {
@@ -766,7 +766,7 @@
                 "last_commit": "2026-08-23T19:15:41Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14650
+                "stars": 14651
               }
             },
             {
@@ -1182,7 +1182,7 @@
                 "last_commit": "2026-07-22T15:16:22Z",
                 "owner": "Project-LemonLime",
                 "repo": "Project_LemonLime",
-                "stars": 704
+                "stars": 705
               }
             },
             {
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:37.642Z",
+    "last_updated": "2026-08-25T13:30:03.770Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
