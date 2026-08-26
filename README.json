@@ -97,7 +97,7 @@
                 "last_commit": "2026-03-09T04:21:55Z",
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8255
+                "stars": 8256
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-07-22T19:16:16Z",
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2133
+                "stars": 2135
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-22T14:33:26Z",
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7606
+                "stars": 7610
               }
             },
             {
@@ -373,7 +373,7 @@
                 "last_commit": "2026-08-23T02:19:09Z",
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 342
+                "stars": 341
               }
             },
             {
@@ -528,7 +528,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9414
+                "stars": 9415
               }
             },
             {
@@ -543,7 +543,7 @@
                 "last_commit": "2025-09-01T14:14:28Z",
                 "owner": "nix-community",
                 "repo": "nix-bundle",
-                "stars": 858
+                "stars": 859
               }
             }
           ],
@@ -592,7 +592,7 @@
                 "archived": false,
                 "id": 430368975,
                 "language": "Starlark",
-                "last_commit": "2026-08-22T12:11:21Z",
+                "last_commit": "2026-08-25T23:50:50Z",
                 "owner": "lalten",
                 "repo": "rules_appimage",
                 "stars": 39
@@ -763,10 +763,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T19:15:41Z",
+                "last_commit": "2026-08-26T09:57:01Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14651
+                "stars": 14652
               }
             },
             {
@@ -1456,7 +1456,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9414
+                "stars": 9415
               }
             },
             {
@@ -1508,7 +1508,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9414
+                "stars": 9415
               }
             }
           ],
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:30:03.770Z",
+    "last_updated": "2026-08-26T13:36:39.077Z",
     "original_repository": "AppImageCommunity/awesome-appimage",
     "original_repository_id": 284008546,
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
