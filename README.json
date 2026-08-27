@@ -97,7 +97,7 @@
                 "last_commit": "2026-03-09T04:21:55Z",
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8256
+                "stars": 8264
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-07-22T19:16:16Z",
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2135
+                "stars": 2138
               }
             },
             {
@@ -127,7 +127,7 @@
                 "last_commit": "2026-06-07T15:01:54Z",
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1166
+                "stars": 1167
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-22T14:33:26Z",
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7610
+                "stars": 7612
               }
             },
             {
@@ -632,7 +632,7 @@
                 "last_commit": "2025-10-21T18:08:31Z",
                 "owner": "probonopd",
                 "repo": "linuxdeployqt",
-                "stars": 2467
+                "stars": 2468
               }
             },
             {
@@ -647,7 +647,7 @@
                 "last_commit": "2026-06-07T15:01:54Z",
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1166
+                "stars": 1167
               }
             },
             {
@@ -763,10 +763,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T09:57:01Z",
+                "last_commit": "2026-08-26T16:47:46Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14652
+                "stars": 14653
               }
             },
             {
@@ -1182,7 +1182,7 @@
                 "last_commit": "2026-07-22T15:16:22Z",
                 "owner": "Project-LemonLime",
                 "repo": "Project_LemonLime",
-                "stars": 705
+                "stars": 704
               }
             },
             {
@@ -1565,9 +1565,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:36:39.077Z",
-    "original_repository": "AppImageCommunity/awesome-appimage",
-    "original_repository_id": 284008546,
+    "last_updated": "2026-08-27T11:23:39.731Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 284008546,
+      "language": null,
+      "last_commit": "2025-12-07T12:00:44Z",
+      "owner": "AppImageCommunity",
+      "repo": "awesome-appimage",
+      "stars": 600
+    },
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
     "enhanced_repository": "enhansome/enhansome-appimage",
     "enhanced_repository_description": null,
