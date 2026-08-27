@@ -97,7 +97,7 @@
                 "last_commit": "2026-03-09T04:21:55Z",
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8264
+                "stars": 8266
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-22T14:33:26Z",
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7612
+                "stars": 7613
               }
             },
             {
@@ -528,7 +528,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9415
+                "stars": 9416
               }
             },
             {
@@ -592,7 +592,7 @@
                 "archived": false,
                 "id": 430368975,
                 "language": "Starlark",
-                "last_commit": "2026-08-25T23:50:50Z",
+                "last_commit": "2026-08-27T17:48:23Z",
                 "owner": "lalten",
                 "repo": "rules_appimage",
                 "stars": 39
@@ -763,10 +763,10 @@
                 "archived": false,
                 "id": 35998691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:47:46Z",
+                "last_commit": "2026-08-27T17:38:09Z",
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14653
+                "stars": 14654
               }
             },
             {
@@ -1456,7 +1456,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9415
+                "stars": 9416
               }
             },
             {
@@ -1508,7 +1508,7 @@
                 "last_commit": "2026-07-26T18:38:02Z",
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9415
+                "stars": 9416
               }
             }
           ],
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:39.731Z",
+    "last_updated": "2026-08-27T22:31:26.498Z",
     "original_repository_info": {
       "archived": false,
       "id": 284008546,
