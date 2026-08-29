@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, modern AppImageHub Client, powered by flutter.",
+                "homepage": "https://www.pling.com/p/1547076/",
                 "id": 355420731,
                 "language": "Dart",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-12T19:08:10Z",
+                "open_issues": 28,
                 "owner": "prateekmedia",
                 "repo": "appimagepool",
-                "stars": 722
+                "stars": 722,
+                "topics": [
+                  "appimage",
+                  "appimagehub",
+                  "applications",
+                  "flutter",
+                  "gnome",
+                  "gtk",
+                  "hacktoberfest",
+                  "linux",
+                  "linux-app",
+                  "unviersal-store"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -28,12 +44,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NX Software Center. A GUI to install and manage AppImages.",
+                "homepage": null,
                 "id": 77169105,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-05-05T18:10:29Z",
+                "open_issues": 10,
                 "owner": "Nitrux",
                 "repo": "nx-software-center",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "appimage",
+                  "linux",
+                  "nitrux",
+                  "software-center"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -51,12 +77,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "See what is going on in the AppImage world on GitHub",
+                "homepage": null,
                 "id": 116381240,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-05-21T19:21:34Z",
+                "open_issues": 0,
                 "owner": "AppImageCommunity",
                 "repo": "AppImageRadar",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -67,12 +98,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search for AppImage releases over the web.",
+                "homepage": null,
                 "id": 131886816,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-25T10:42:12Z",
+                "open_issues": 0,
                 "owner": "azubieta",
                 "repo": "appimages.scraper",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -96,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper application for Linux distributions serving as a kind of \"entry point\" for running and integrating AppImages",
+                "homepage": "https://assassinate-you.net/tags/appimagelauncher/",
                 "id": 125722945,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-09T04:21:55Z",
+                "open_issues": 206,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8266
+                "stars": 8266,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -112,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage AppImages with ease 📦",
+                "homepage": "https://gearlever.mijorus.it",
                 "id": 642876857,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
+                "open_issues": 204,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2142
+                "stars": 2143,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -128,12 +174,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of AppImage tools",
+                "homepage": null,
                 "id": 215644748,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-07T15:01:54Z",
+                "open_issues": 134,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1167
+                "stars": 1167,
+                "topics": [
+                  "appimage",
+                  "go",
+                  "golang",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -144,12 +200,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "appimaged is a daemon that monitors the system and integrates AppImages.",
+                "homepage": "https://appimage.org",
                 "id": 133345908,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-03T10:06:05Z",
+                "open_issues": 39,
                 "owner": "AppImageCommunity",
                 "repo": "appimaged",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "appimage",
+                  "daemon",
+                  "monitor",
+                  "register"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -160,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thumbnailers for GTK Desktop Environments",
+                "homepage": null,
                 "id": 456596150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-16T15:16:24Z",
+                "open_issues": 5,
                 "owner": "linuxmint",
                 "repo": "xapp-thumbnailers",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -176,12 +247,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PortableApps.com type launcher for linux",
+                "homepage": null,
                 "id": 67040728,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-01-11T20:30:03Z",
+                "open_issues": 2,
                 "owner": "CalebQ42",
                 "repo": "LinuxPA",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "appimage",
+                  "launcher",
+                  "linux",
+                  "portableapps"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -192,12 +273,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage Desktop Maker",
+                "homepage": "https://youtube.com/AlexPinheiroSussa",
                 "id": 265597110,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-24T13:18:25Z",
+                "open_issues": 0,
                 "owner": "Alexsussa",
                 "repo": "AIDM",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "aidm",
+                  "appimage",
+                  "appimage-desktop-maker",
+                  "appimage-integration",
+                  "appimage-integration-system"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -208,12 +300,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼️ A thumbnailer for AppImages",
+                "homepage": null,
                 "id": 346038856,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2021-05-10T15:57:47Z",
+                "open_issues": 3,
                 "owner": "mttbernardini",
                 "repo": "appimage-thumbnailer",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "appimage",
+                  "appimages",
+                  "gnome",
+                  "imagemagick",
+                  "kde",
+                  "linux",
+                  "thumbnailer",
+                  "tumbler",
+                  "xdg-thumbnail"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -224,12 +331,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitors and (de)installs AppImage on a Gnome desktop",
+                "homepage": null,
                 "id": 401536150,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-08-31T02:57:17Z",
+                "open_issues": 0,
                 "owner": "DejfCold",
                 "repo": "ATG",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "appimage",
+                  "desktop",
+                  "gnome"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -240,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 536106387,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-09-13T12:31:54Z",
+                "open_issues": 0,
                 "owner": "knork-fork",
                 "repo": "gnome_appimage_installer",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -263,12 +384,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.",
+                "homepage": "https://appimage.org",
                 "id": 84325774,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-10-18T19:40:40Z",
+                "open_issues": 79,
                 "owner": "AppImageCommunity",
                 "repo": "AppImageUpdate",
-                "stars": 727
+                "stars": 727,
+                "topics": [
+                  "appimage",
+                  "applications",
+                  "delta",
+                  "delta-updates",
+                  "deployment",
+                  "linux",
+                  "linux-app",
+                  "packaging",
+                  "update",
+                  "updater"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -279,12 +416,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage Updater for Humans built with QML/C++ with Qt5  :heart:.",
+                "homepage": null,
                 "id": 116551099,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-04-02T00:13:29Z",
+                "open_issues": 1,
                 "owner": "antony-jr",
                 "repo": "AppImageUpdater",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "appimage",
+                  "automation",
+                  "awesome",
+                  "cplusplus-11",
+                  "easy-to-use",
+                  "hot",
+                  "qt-gui",
+                  "qt5",
+                  "self-contained-system",
+                  "simple",
+                  "unofficial",
+                  "updater",
+                  "userfriendlygui"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -295,12 +451,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage Update Golang implementation",
+                "homepage": null,
                 "id": 263672540,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-07-27T18:22:13Z",
+                "open_issues": 0,
                 "owner": "AppImageCrafters",
                 "repo": "appimage-update",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "appimage",
+                  "golang",
+                  "update"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -318,12 +483,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux namespaces and seccomp-bpf sandbox",
+                "homepage": "https://firejail.wordpress.com",
                 "id": 40418146,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-22T14:33:26Z",
+                "open_issues": 524,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7617
+                "stars": 7617,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -334,12 +504,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to make sandboxing AppImages easy",
+                "homepage": null,
                 "id": 423416653,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2024-12-02T23:26:40Z",
+                "open_issues": 2,
                 "owner": "mgord9518",
                 "repo": "aisap",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "go",
+                  "golang",
+                  "linux",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -357,12 +537,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications",
+                "homepage": null,
                 "id": 201946404,
                 "language": "Python",
+                "license": "Zlib",
                 "last_commit": "2024-10-13T12:58:41Z",
+                "open_issues": 107,
                 "owner": "vinifmor",
                 "repo": "bauh",
-                "stars": 1399
+                "stars": 1399,
+                "topics": [
+                  "appimage",
+                  "arch",
+                  "archlinux",
+                  "aur",
+                  "debian",
+                  "flatpak",
+                  "nativefier",
+                  "python",
+                  "snap",
+                  "webapplication"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -373,12 +569,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Delightful AppImage package manager",
+                "homepage": "https://zap.srev.in",
                 "id": 286548415,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-14T12:39:25Z",
+                "open_issues": 51,
                 "owner": "srevinsaju",
                 "repo": "zap",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "appimage",
+                  "cli",
+                  "desktop",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "installer",
+                  "package-manager",
+                  "zap"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -389,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage Package Manager. \"AppMan\" is a redistribution of \"AM\" Application Manager, that does not require root privileges to install and manage apps: same code, same apps... two different behavior.",
+                "homepage": "https://github.com/ivan-hc/AM",
                 "id": 399999569,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T02:19:09Z",
+                "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -405,12 +622,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage package manager",
+                "homepage": null,
                 "id": 269521665,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-10-24T14:36:46Z",
+                "open_issues": 8,
                 "owner": "AppImageCrafters",
                 "repo": "appimage-cli-tool",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "appimage",
+                  "appimage-collection",
+                  "appimage-manager",
+                  "desktop-integration",
+                  "installation",
+                  "updates"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -421,12 +650,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bread: Install, update and remove AppImage from your CLI.",
+                "homepage": "https://pegvin.github.io/bread",
                 "id": 469382504,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-05T16:40:10Z",
+                "open_issues": 0,
                 "owner": "pegvin",
                 "repo": "bread",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "appimage",
+                  "go",
+                  "golang",
+                  "linux",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -437,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 483214430,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-04T03:06:29Z",
+                "open_issues": 3,
                 "owner": "lawl",
                 "repo": "ayy",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -453,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Package Manager for AppImages",
+                "homepage": null,
                 "id": 280511060,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-08T11:10:51Z",
+                "open_issues": 5,
                 "owner": "michaeldelago",
                 "repo": "aipm",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -469,12 +719,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "♾️ Fast & Simple AppImage manager",
+                "homepage": null,
                 "id": 541712152,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-19T16:10:13Z",
+                "open_issues": 2,
                 "owner": "dfrnoch",
                 "repo": "leap",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "appimage",
+                  "package-manager",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -485,12 +744,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linuxbrew Appimage Formulaes.",
+                "homepage": null,
                 "id": 107918014,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-02-05T12:12:36Z",
+                "open_issues": 0,
                 "owner": "athrunsun",
                 "repo": "homebrew-appimage",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "appimage",
+                  "homebrew",
+                  "linuxbrew"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -501,12 +769,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another Nix inspired package manager",
+                "homepage": null,
                 "id": 339894388,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2022-04-07T02:50:03Z",
+                "open_issues": 0,
                 "owner": "18fadly-anthony",
                 "repo": "rookie",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -524,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thumbnailers for GTK Desktop Environments",
+                "homepage": null,
                 "id": 456596150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-16T15:16:24Z",
+                "open_issues": 5,
                 "owner": "linuxmint",
                 "repo": "xapp-thumbnailers",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -553,12 +833,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+                "homepage": "http://appimage.org",
                 "id": 9435153,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-26T18:38:02Z",
+                "open_issues": 237,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9417
+                "stars": 9417,
+                "topics": [
+                  "appimage",
+                  "applications",
+                  "deployment",
+                  "linux",
+                  "linux-app",
+                  "packaging"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -569,12 +861,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin] ",
+                "homepage": null,
                 "id": 61151418,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2025-09-01T14:14:28Z",
+                "open_issues": 58,
                 "owner": "nix-community",
                 "repo": "nix-bundle",
-                "stars": 859
+                "stars": 859,
+                "topics": [
+                  "nix"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -592,12 +891,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GNU/Linux packaging solution using the AppImage format",
+                "homepage": null,
                 "id": 218847680,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-05T17:29:56Z",
+                "open_issues": 94,
                 "owner": "AppImageCrafters",
                 "repo": "appimage-builder",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "appimage",
+                  "appimage-builder",
+                  "creation",
+                  "linux",
+                  "packaging",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -608,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful build script generator with a focus on making AppImages.",
+                "homepage": null,
                 "id": 178573585,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T21:03:41Z",
+                "open_issues": 10,
                 "owner": "TheAssassin",
                 "repo": "appimagecraft",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -624,12 +940,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel rules to create portable Linux applications by bundling a binary target and all its runfiles into a self-contained AppImage binary.",
+                "homepage": "https://github.com/lalten/rules_appimage/blob/main/docs/defs.md",
                 "id": 430368975,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:03:26Z",
+                "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "appimage",
+                  "bazel"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -640,12 +964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate AppImages automatically from your CMake build process",
+                "homepage": null,
                 "id": 389202084,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2021-07-25T23:39:45Z",
+                "open_issues": 0,
                 "owner": "Ravbug",
                 "repo": "AppImage.cmake",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -663,12 +992,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications",
+                "homepage": null,
                 "id": 67432158,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-21T18:08:31Z",
+                "open_issues": 212,
                 "owner": "probonopd",
                 "repo": "linuxdeployqt",
-                "stars": 2468
+                "stars": 2468,
+                "topics": [
+                  "appimage",
+                  "applications",
+                  "deployment",
+                  "linux",
+                  "packaging",
+                  "qt",
+                  "qt5"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -679,12 +1021,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of AppImage tools",
+                "homepage": null,
                 "id": 215644748,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-07T15:01:54Z",
+                "open_issues": 134,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1167
+                "stars": 1167,
+                "topics": [
+                  "appimage",
+                  "go",
+                  "golang",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -695,12 +1047,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppDir creation and maintenance tool. Featuring flexible plugin system.",
+                "homepage": "https://github.com/linuxdeploy/linuxdeploy",
                 "id": 134625865,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-01T00:13:48Z",
+                "open_issues": 102,
                 "owner": "linuxdeploy",
                 "repo": "linuxdeploy",
-                "stars": 815
+                "stars": 815,
+                "topics": [
+                  "appimage",
+                  "cpp",
+                  "linuxdeploy"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -711,12 +1072,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for turning compiled Xojo Linux programs into the extremely portable and compatible AppImage!",
+                "homepage": null,
                 "id": 864346747,
                 "language": "Xojo",
+                "license": "GPL-2.0",
                 "last_commit": "2025-03-10T12:53:25Z",
+                "open_issues": 0,
                 "owner": "AlwaysOfflineSoftware",
                 "repo": "XojoToAppImage",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "appimage",
+                  "appimage-format",
+                  "graphical-user-interface",
+                  "packaging-tool"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -734,12 +1105,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage distributions of Python",
+                "homepage": "https://python-appimage.readthedocs.io/en/latest/",
                 "id": 251001753,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-02T05:54:01Z",
+                "open_issues": 17,
                 "owner": "niess",
                 "repo": "python-appimage",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "appimage",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -750,12 +1129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python plugin for linuxdeploy. Sets up miniconda in an AppDir and installs user specified packages.",
+                "homepage": null,
                 "id": 146339074,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-09-07T09:38:18Z",
+                "open_issues": 19,
                 "owner": "linuxdeploy",
                 "repo": "linuxdeploy-plugin-conda",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -766,12 +1150,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage builder, just for python. ",
+                "homepage": null,
                 "id": 289064804,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-08T07:57:41Z",
+                "open_issues": 2,
                 "owner": "srevinsaju",
                 "repo": "pyappimage",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "appimage",
+                  "appimage-builder",
+                  "appimages",
+                  "binary",
+                  "hacktoberfest",
+                  "packaging",
+                  "packaging-python",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -782,12 +1181,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bundle Python into an AppDir using a source distribution and linuxdeploy",
+                "homepage": null,
                 "id": 190451180,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-05-23T05:50:15Z",
+                "open_issues": 5,
                 "owner": "niess",
                 "repo": "linuxdeploy-plugin-python",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "appimage",
+                  "linuxdeploy",
+                  "plugin",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -805,12 +1214,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
+                "homepage": "https://www.electron.build",
                 "id": 35998691,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:54:27Z",
+                "open_issues": 73,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14655
+                "stars": 14655,
+                "topics": [
+                  "appx",
+                  "auto-update",
+                  "builder",
+                  "contributions-welcome",
+                  "deb",
+                  "distribution-electron",
+                  "dmg",
+                  "electron",
+                  "electron-builder",
+                  "electron-updater",
+                  "help-wanted",
+                  "linux",
+                  "macos",
+                  "msi",
+                  "muon",
+                  "nsis",
+                  "pkg",
+                  "rpm",
+                  "snap",
+                  "squirrel"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -821,12 +1256,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI tool to make a single executable AppImage from any website",
+                "homepage": null,
                 "id": 335959367,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-02-03T17:13:18Z",
+                "open_issues": 18,
                 "owner": "sarwesh00",
                 "repo": "appnativefy",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "appimage",
+                  "appimages",
+                  "electron",
+                  "linux",
+                  "linux-app",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -837,12 +1284,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 201563982,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T18:51:22Z",
+                "open_issues": 2,
                 "owner": "saleae",
                 "repo": "electron-forge-maker-appimage",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -860,12 +1312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appimage For Wine",
+                "homepage": null,
                 "id": 128619090,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-04-19T07:06:43Z",
+                "open_issues": 12,
                 "owner": "Hackerl",
                 "repo": "Wine_Appimage",
-                "stars": 478
+                "stars": 478,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -876,12 +1333,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to creating AppImages for  32-bit Microsoft Windows® applications",
+                "homepage": null,
                 "id": 225612301,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2021-02-11T00:56:53Z",
+                "open_issues": 8,
                 "owner": "sudo-give-me-coffee",
                 "repo": "wine32-deploy",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "32-bit",
+                  "64-bit",
+                  "app",
+                  "appimage",
+                  "application",
+                  "linux",
+                  "port",
+                  "programs",
+                  "windows",
+                  "wine"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -892,12 +1365,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Appimage for Wine 32bits from PlayOnLinux - You can run on no-multilib system",
+                "homepage": null,
                 "id": 196630956,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-04-12T01:20:29Z",
+                "open_issues": 5,
                 "owner": "ferion11",
                 "repo": "Wine_Appimage",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -915,12 +1393,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Packages NetBeans Platform Application with a CRI for AppImage, Linux, MacOS and Windows",
+                "homepage": null,
                 "id": 256687108,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-26T11:51:40Z",
+                "open_issues": 1,
                 "owner": "trixon",
                 "repo": "nbPackager",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "desktop",
+                  "netbeans-platform"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -938,12 +1424,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PupNet Deploy is a cross-platform deployment utility which packages your .NET project as a ready-to-ship installation file in a single step.",
+                "homepage": null,
                 "id": 608784167,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-12T21:52:09Z",
+                "open_issues": 5,
                 "owner": "kuiperzone",
                 "repo": "PupNet-Deploy",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "appimage",
+                  "csharp",
+                  "debian",
+                  "deploy",
+                  "dotnet",
+                  "flatpak",
+                  "installation-automation",
+                  "linux",
+                  "package",
+                  "rpm",
+                  "setup",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -954,12 +1458,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distribute your .NET applications!",
+                "homepage": null,
                 "id": 709878230,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-05-17T20:50:23Z",
+                "open_issues": 4,
                 "owner": "SuperJMN",
                 "repo": "DotnetPackaging",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "avalonia",
+                  "avaloniaui",
+                  "build",
+                  "cross-platform",
+                  "distribute",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -970,12 +1486,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy script for lazer",
+                "homepage": null,
                 "id": 136150607,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-08T05:35:18Z",
+                "open_issues": 3,
                 "owner": "ppy",
                 "repo": "osu-deploy",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "lazer",
+                  "osu"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -986,12 +1510,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Publish-AppImage for .NET is a simple bash utility which calls `dotnet publish` and packages the output as an AppImage file (or zip) with a single command. The Linux \"Desktop Entry\" file is generated automatically.",
+                "homepage": null,
                 "id": 414302661,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-24T12:54:15Z",
+                "open_issues": 1,
                 "owner": "kuiperzone",
                 "repo": "Publish-AppImage",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "appimage",
+                  "appimage-builder",
+                  "appimagetool",
+                  "bash",
+                  "c-sharp",
+                  "dotnet",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1009,12 +1546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 401662660,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-08-31T10:37:56Z",
+                "open_issues": 0,
                 "owner": "CredibleOpossum",
                 "repo": "flash-to-appimage",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1032,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts your crate into an AppImage",
+                "homepage": null,
                 "id": 365366353,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-08-09T22:35:38Z",
+                "open_issues": 10,
                 "owner": "StratusFearMe21",
                 "repo": "cargo-appimage",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1055,12 +1602,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool and recipes to convert existing deb packages to AppImage ",
+                "homepage": "http://appimage.org",
                 "id": 40756369,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-07-21T11:28:59Z",
+                "open_issues": 184,
                 "owner": "AppImageCommunity",
                 "repo": "pkg2appimage",
-                "stars": 793
+                "stars": 793,
+                "topics": [
+                  "appimage",
+                  "applications",
+                  "desktop",
+                  "linux",
+                  "packaging"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1071,12 +1629,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable",
+                "homepage": null,
                 "id": 530761394,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-02T07:54:19Z",
+                "open_issues": 21,
                 "owner": "hanzala123",
                 "repo": "arch2appimage",
-                "stars": 330
+                "stars": 330,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1087,12 +1650,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script that generates Debian and Ubuntu based AppImage packages on any distro",
+                "homepage": "https://portable-linux-apps.github.io",
                 "id": 636545096,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-15T22:04:24Z",
+                "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppImaGen",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "appimagetool",
+                  "pkg2appimage"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1103,12 +1674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest way to make a glibc executable portable on Linux",
+                "homepage": null,
                 "id": 279183875,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-02-10T19:47:50Z",
+                "open_issues": 3,
                 "owner": "natanael-b",
                 "repo": "make-portable",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1119,12 +1695,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proof of concept to demonstrate a viable way to turn a Flatpak into AppDir",
+                "homepage": null,
                 "id": 248093626,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2020-05-11T23:53:29Z",
+                "open_issues": 7,
                 "owner": "sudo-give-me-coffee",
                 "repo": "flatpak2appdir",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "appdir",
+                  "appimage",
+                  "converter",
+                  "flatpak",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1135,12 +1722,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action for creating AppImage from .tar.gz packages",
+                "homepage": null,
                 "id": 533532287,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-01-16T21:30:19Z",
+                "open_issues": 2,
                 "owner": "valicm",
                 "repo": "appimage-bash",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "appimage",
+                  "appimage-builder",
+                  "appimages"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1151,12 +1747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for conversion packages into appimage portable apps",
+                "homepage": null,
                 "id": 427077130,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-11-02T15:46:02Z",
+                "open_issues": 0,
                 "owner": "lRespublica",
                 "repo": "package-to-appimage",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1167,12 +1768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to generate single-file, runc-based AppImage containers.",
+                "homepage": "https://code.s.zeid.me/elements",
                 "id": 172117952,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-21T03:56:50Z",
+                "open_issues": 0,
                 "owner": "s-zeid",
                 "repo": "elements",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1183,12 +1789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphically Convert GameMaker Games to AppImage Bundles",
+                "homepage": null,
                 "id": 994154409,
                 "language": "Game Maker Language",
+                "license": "MIT",
                 "last_commit": "2026-06-13T02:06:58Z",
+                "open_issues": 0,
                 "owner": "samuelvenable",
                 "repo": "GMAppImager",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1206,12 +1817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check AppImages for compatibility, best practices etc. Powerful functionality combined with simple usage and human-friendly feedback.",
+                "homepage": null,
                 "id": 179894377,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-23T23:25:58Z",
+                "open_issues": 16,
                 "owner": "TheAssassin",
                 "repo": "appimagelint",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1222,12 +1838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppImage testing environment based on Docker containers",
+                "homepage": null,
                 "id": 132364936,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-08-05T09:23:55Z",
+                "open_issues": 3,
                 "owner": "aferrero2707",
                 "repo": "appimage-testsuite",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1245,12 +1866,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持",
+                "homepage": null,
                 "id": 175633592,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-22T15:16:22Z",
+                "open_issues": 79,
                 "owner": "Project-LemonLime",
                 "repo": "Project_LemonLime",
-                "stars": 704
+                "stars": 704,
+                "topics": [
+                  "acm",
+                  "acm-icpc",
+                  "cross-platform",
+                  "hacktoberfest",
+                  "lemon",
+                  "linux",
+                  "oi",
+                  "oi-lemon-lemonplus",
+                  "programming-contests",
+                  "qt",
+                  "qt6"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1261,12 +1899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AppImage for the Zoom desktop application (until Zoom provides an official one)",
+                "homepage": null,
                 "id": 287005869,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-01-07T06:57:56Z",
+                "open_issues": 6,
                 "owner": "probonopd",
                 "repo": "Zoom.AppImage",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1277,12 +1920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action for producing AppImages",
+                "homepage": null,
                 "id": 261290517,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-13T17:28:31Z",
+                "open_issues": 10,
                 "owner": "AppImageCrafters",
                 "repo": "build-appimage",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1293,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Packages for Linux using drone.io for ci",
+                "homepage": null,
                 "id": 184321878,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-05-18T00:30:42Z",
+                "open_issues": 1,
                 "owner": "jniltinho",
                 "repo": "packages",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1316,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implements functionality for dealing with AppImage files",
+                "homepage": "https://appimage.org",
                 "id": 145175345,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-31T01:53:46Z",
+                "open_issues": 60,
                 "owner": "AppImageCommunity",
                 "repo": "libappimage",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1332,12 +1990,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qt5 library and plugin for updating AppImages. :heart:",
+                "homepage": "https://antony-jr.github.io/QAppImageUpdate",
                 "id": 115751538,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-20T09:48:36Z",
+                "open_issues": 1,
                 "owner": "antony-jr",
                 "repo": "QAppImageUpdate",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "appimage",
+                  "appimage-updater-bridge",
+                  "autoupdate",
+                  "bridge",
+                  "c-plus-plus",
+                  "easy-to-use",
+                  "library",
+                  "qt5",
+                  "small",
+                  "updater",
+                  "zsync"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1348,12 +2023,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zsync implementation in Golang",
+                "homepage": null,
                 "id": 269615736,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-05-26T15:38:32Z",
+                "open_issues": 1,
                 "owner": "AppImageCrafters",
                 "repo": "libzsync-go",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "file-transfer",
+                  "golang-library",
+                  "zsync"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1364,12 +2048,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language agnostic implementation of the AppImage user experience (not mandatory to use AppImages)",
+                "homepage": null,
                 "id": 182832383,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-10-07T21:28:14Z",
+                "open_issues": 0,
                 "owner": "azubieta",
                 "repo": "AppImageServices",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "api",
+                  "appimage",
+                  "dbus",
+                  "desktop-integration",
+                  "easy-to-use",
+                  "inspect",
+                  "launch",
+                  "update"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1380,12 +2078,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small library to manage application running and user paths, adapted from ad-hoc code to allow for AppImages to be built.",
+                "homepage": null,
                 "id": 531799966,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-12T06:30:55Z",
+                "open_issues": 0,
                 "owner": "TheMarlboroMan",
                 "repo": "appenv",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "dependant",
+                  "environment",
+                  "library",
+                  "system"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1403,12 +2111,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template for a Qt/QML application with batteries included: GitHub C.I. for QML apps; ASan/UBSan; automated GUI testing with Xvfb; automatic code-format checks; and more. Compiles for Desktop and Mobile (Linux, Mac, Windows, Android, iOS).",
+                "homepage": "https://www.219design.com/hello-world-template-toolchain/",
                 "id": 241501459,
                 "language": "QML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-11T23:21:21Z",
+                "open_issues": 1,
                 "owner": "219-design",
                 "repo": "qt-qml-project-template-with-ci",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "android-application",
+                  "cmake",
+                  "cookiecutter",
+                  "cookiecutter-cpp",
+                  "cookiecutter-qt",
+                  "cookiecutter-template",
+                  "github-template",
+                  "gui-test",
+                  "project-template",
+                  "qmake",
+                  "qml",
+                  "qt",
+                  "qt-android",
+                  "qt6",
+                  "template-project"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1419,12 +2148,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal Qt deployment for Linux, Windows, macOS and WebAssembly.",
+                "homepage": null,
                 "id": 124771839,
                 "language": "QML",
+                "license": null,
                 "last_commit": "2020-08-08T15:30:24Z",
+                "open_issues": 4,
                 "owner": "patrickelectric",
                 "repo": "mini-qml",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "appveyor",
+                  "deployment",
+                  "linux",
+                  "mac",
+                  "mini-qml",
+                  "qml",
+                  "qt",
+                  "qt5",
+                  "travis",
+                  "webasm",
+                  "webassembly",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1435,12 +2182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template for generating Linux AppImage projects with Briefcase",
+                "homepage": null,
                 "id": 226473496,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-07-08T00:33:40Z",
+                "open_issues": 3,
                 "owner": "beeware",
                 "repo": "briefcase-linux-appimage-template",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1451,12 +2203,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template project for wxWidgets C++, with pre-set files and IDE projects, and allows for easy updates to wxWidgets",
+                "homepage": null,
                 "id": 173391200,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-03-23T22:46:50Z",
+                "open_issues": 0,
                 "owner": "Ravbug",
                 "repo": "wxWidgetsTemplate",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "appimage",
+                  "appimage-builder",
+                  "cpp-library",
+                  "cross-platform",
+                  "gui",
+                  "linux",
+                  "macos",
+                  "native",
+                  "sample-app",
+                  "sample-project",
+                  "template",
+                  "visual-studio",
+                  "windows",
+                  "wxwidgets",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1467,12 +2240,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qt5 demo project for AppImage creation demonstrations",
+                "homepage": null,
                 "id": 261276504,
                 "language": "QML",
+                "license": null,
                 "last_commit": "2023-09-07T03:48:41Z",
+                "open_issues": 0,
                 "owner": "AppImageCrafters",
                 "repo": "appimage-demo-qt5",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appimage",
+                  "appimage-builder",
+                  "example",
+                  "qt5"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1483,12 +2266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template for creating applications for Linux, Windows and MacOS using the Qt widgets framework",
+                "homepage": null,
                 "id": 212286942,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2023-07-25T13:56:26Z",
+                "open_issues": 0,
                 "owner": "stemoretti",
                 "repo": "Qt-Desktop-Template",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1512,12 +2300,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository holds the specification for the AppImage format.",
+                "homepage": "http://appimage.org/",
                 "id": 61217862,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-03T11:48:26Z",
+                "open_issues": 30,
                 "owner": "AppImage",
                 "repo": "AppImageSpec",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "appimage",
+                  "appimage-format"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1535,12 +2331,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+                "homepage": "http://appimage.org",
                 "id": 9435153,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-26T18:38:02Z",
+                "open_issues": 237,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9417
+                "stars": 9417,
+                "topics": [
+                  "appimage",
+                  "applications",
+                  "deployment",
+                  "linux",
+                  "linux-app",
+                  "packaging"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1551,12 +2359,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to compress and run programs using dwarfs",
+                "homepage": "https://phantop.github.io/appdwarf/",
                 "id": 367713176,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-08T16:58:41Z",
+                "open_issues": 0,
                 "owner": "Phantop",
                 "repo": "appdwarf",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "appimage",
+                  "dwarfs",
+                  "squashfs",
+                  "zstandard",
+                  "zstd"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             },
@@ -1567,12 +2386,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rust implementation of the AppImage specification that uses Zip as the backing image file system.",
+                "homepage": null,
                 "id": 87692864,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2017-12-22T19:12:56Z",
+                "open_issues": 0,
                 "owner": "sagebind",
                 "repo": "appimagezip",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appimage",
+                  "fuse-filesystem",
+                  "package-creation",
+                  "zip"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1590,12 +2419,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+                "homepage": "http://appimage.org",
                 "id": 9435153,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-26T18:38:02Z",
+                "open_issues": 237,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9417
+                "stars": 9417,
+                "topics": [
+                  "appimage",
+                  "applications",
+                  "deployment",
+                  "linux",
+                  "linux-app",
+                  "packaging"
+                ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1613,12 +2454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crowd-sourced list of linuxdeploy plugins. Add your plugin to the list today!",
+                "homepage": null,
                 "id": 148989802,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-22T12:16:35Z",
+                "open_issues": 0,
                 "owner": "linuxdeploy",
                 "repo": "awesome-linuxdeploy",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1636,12 +2482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple program to integrate AppImages into the Linux desktop.",
+                "homepage": null,
                 "id": 523952392,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-10T04:10:07Z",
+                "open_issues": 0,
                 "owner": "w-j-r",
                 "repo": "AppImage-Integrator",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
             }
@@ -1655,15 +2506,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:34:18.332Z",
+    "last_updated": "2026-08-29T04:40:43.150Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Lovingly crafted AppImage tools and resources ",
+      "homepage": null,
       "id": 284008546,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-07T12:00:44Z",
+      "open_issues": 11,
       "owner": "AppImageCommunity",
       "repo": "awesome-appimage",
-      "stars": 600
+      "stars": 600,
+      "topics": [
+        "appimage",
+        "awesome",
+        "awesome-list",
+        "linux",
+        "package-creation"
+      ]
     },
     "original_repository_sha": "be72cd20f7234bd8e93a6a41d774efb1fd67773f",
     "enhanced_repository": "enhansome/enhansome-appimage",
