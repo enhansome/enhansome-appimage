@@ -141,7 +141,7 @@
                 "open_issues": 206,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8266,
+                "stars": 8268,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -159,7 +159,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
-                "open_issues": 204,
+                "open_issues": 205,
                 "owner": "mijorus",
                 "repo": "gearlever",
                 "stars": 2143,
@@ -492,7 +492,7 @@
                 "open_issues": 524,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7617,
+                "stars": 7618,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:43.150Z",
+    "last_updated": "2026-08-29T16:51:00.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
