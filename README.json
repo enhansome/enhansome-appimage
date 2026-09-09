@@ -141,7 +141,7 @@
                 "open_issues": 205,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8283,
+                "stars": 8288,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -162,7 +162,7 @@
                 "open_issues": 207,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2168,
+                "stars": 2170,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -492,7 +492,7 @@
                 "open_issues": 524,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7632,
+                "stars": 7636,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -839,7 +839,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-26T18:38:02Z",
-                "open_issues": 236,
+                "open_issues": 237,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
                 "stars": 9422,
@@ -1219,8 +1219,8 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T15:51:57Z",
-                "open_issues": 104,
+                "last_commit": "2026-09-09T14:59:34Z",
+                "open_issues": 95,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
                 "stars": 14659,
@@ -1491,8 +1491,8 @@
                 "id": 136150607,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-06-08T05:35:18Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-09T06:10:30Z",
+                "open_issues": 2,
                 "owner": "ppy",
                 "repo": "osu-deploy",
                 "stars": 55,
@@ -2337,7 +2337,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-26T18:38:02Z",
-                "open_issues": 236,
+                "open_issues": 237,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
                 "stars": 9422,
@@ -2425,7 +2425,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-26T18:38:02Z",
-                "open_issues": 236,
+                "open_issues": 237,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
                 "stars": 9422,
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:48:49.782Z",
+    "last_updated": "2026-09-09T16:51:22.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
@@ -2518,7 +2518,7 @@
       "open_issues": 11,
       "owner": "AppImageCommunity",
       "repo": "awesome-appimage",
-      "stars": 603,
+      "stars": 604,
       "topics": [
         "appimage",
         "awesome",
