@@ -141,7 +141,7 @@
                 "open_issues": 205,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8289,
+                "stars": 8292,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -162,7 +162,7 @@
                 "open_issues": 207,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2174,
+                "stars": 2177,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -488,11 +488,11 @@
                 "id": 40418146,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-07T21:14:17Z",
+                "last_commit": "2026-09-11T00:55:22Z",
                 "open_issues": 523,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7639,
+                "stars": 7642,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -546,7 +546,7 @@
                 "open_issues": 107,
                 "owner": "vinifmor",
                 "repo": "bauh",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": [
                   "appimage",
                   "arch",
@@ -575,7 +575,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2024-06-14T12:39:25Z",
-                "open_issues": 51,
+                "open_issues": 50,
                 "owner": "srevinsaju",
                 "repo": "zap",
                 "stars": 599,
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T14:52:53Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-11T11:34:20Z",
+                "open_issues": 94,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14659,
+                "stars": 14660,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1491,7 +1491,7 @@
                 "id": 136150607,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-09T06:10:30Z",
+                "last_commit": "2026-09-11T05:30:11Z",
                 "open_issues": 2,
                 "owner": "ppy",
                 "repo": "osu-deploy",
@@ -2120,7 +2120,7 @@
                 "open_issues": 1,
                 "owner": "219-design",
                 "repo": "qt-qml-project-template-with-ci",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "android-application",
                   "cmake",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:38:45.142Z",
+    "last_updated": "2026-09-11T16:43:00.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
