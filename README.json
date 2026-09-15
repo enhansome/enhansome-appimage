@@ -141,7 +141,7 @@
                 "open_issues": 205,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8299,
+                "stars": 8300,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
-                "open_issues": 208,
+                "open_issues": 207,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2183,
+                "stars": 2185,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -489,7 +489,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-11T20:10:31Z",
-                "open_issues": 523,
+                "open_issues": 524,
                 "owner": "netblue30",
                 "repo": "firejail",
                 "stars": 7647,
@@ -546,7 +546,7 @@
                 "open_issues": 107,
                 "owner": "vinifmor",
                 "repo": "bauh",
-                "stars": 1406,
+                "stars": 1405,
                 "topics": [
                   "appimage",
                   "arch",
@@ -610,7 +610,7 @@
                 "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -870,7 +870,7 @@
                 "open_issues": 58,
                 "owner": "nix-community",
                 "repo": "nix-bundle",
-                "stars": 861,
+                "stars": 862,
                 "topics": [
                   "nix"
                 ]
@@ -945,7 +945,7 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-09-14T01:01:43Z",
+                "last_commit": "2026-09-15T02:27:51Z",
                 "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T21:58:37Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-15T17:11:07Z",
+                "open_issues": 97,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14661,
+                "stars": 14663,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1731,7 +1731,7 @@
                 "open_issues": 2,
                 "owner": "valicm",
                 "repo": "appimage-bash",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "appimage",
                   "appimage-builder",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:09:25.939Z",
+    "last_updated": "2026-09-15T17:13:42.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
