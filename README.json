@@ -141,7 +141,7 @@
                 "open_issues": 205,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8318,
+                "stars": 8319,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -159,7 +159,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
-                "open_issues": 208,
+                "open_issues": 209,
                 "owner": "mijorus",
                 "repo": "gearlever",
                 "stars": 2214,
@@ -489,10 +489,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-20T12:59:54Z",
-                "open_issues": 523,
+                "open_issues": 524,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7661,
+                "stars": 7663,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -1001,7 +1001,7 @@
                 "open_issues": 212,
                 "owner": "probonopd",
                 "repo": "linuxdeployqt",
-                "stars": 2471,
+                "stars": 2470,
                 "topics": [
                   "appimage",
                   "applications",
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T21:29:38Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-22T16:10:44Z",
+                "open_issues": 85,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14665,
+                "stars": 14667,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1792,9 +1792,9 @@
                 "description": "Graphically Convert GameMaker Games to AppImage Bundles",
                 "homepage": null,
                 "id": 994154409,
-                "language": "Game Maker Language",
+                "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-19T03:38:57Z",
+                "last_commit": "2026-09-22T15:32:23Z",
                 "open_issues": 0,
                 "owner": "samuelvenable",
                 "repo": "GMAppImager",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:17:47.902Z",
+    "last_updated": "2026-09-22T17:12:25.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
