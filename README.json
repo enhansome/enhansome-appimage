@@ -162,7 +162,7 @@
                 "open_issues": 210,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2216,
+                "stars": 2219,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -183,7 +183,7 @@
                 "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": [
                   "appimage",
                   "go",
@@ -489,10 +489,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-20T12:59:54Z",
-                "open_issues": 524,
+                "open_issues": 527,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7665,
+                "stars": 7667,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -578,7 +578,7 @@
                 "open_issues": 50,
                 "owner": "srevinsaju",
                 "repo": "zap",
-                "stars": 599,
+                "stars": 600,
                 "topics": [
                   "appimage",
                   "cli",
@@ -606,11 +606,11 @@
                 "id": 399999569,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T05:34:35Z",
+                "last_commit": "2026-09-24T01:45:14Z",
                 "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 355,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -842,7 +842,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9428,
+                "stars": 9429,
                 "topics": [
                   "appimage",
                   "applications",
@@ -900,7 +900,7 @@
                 "open_issues": 94,
                 "owner": "AppImageCrafters",
                 "repo": "appimage-builder",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "appimage",
                   "appimage-builder",
@@ -1030,7 +1030,7 @@
                 "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": [
                   "appimage",
                   "go",
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T14:56:41Z",
-                "open_issues": 85,
+                "last_commit": "2026-09-24T16:47:10Z",
+                "open_issues": 83,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14665,
+                "stars": 14667,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1467,7 +1467,7 @@
                 "open_issues": 4,
                 "owner": "SuperJMN",
                 "repo": "DotnetPackaging",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -1495,7 +1495,7 @@
                 "open_issues": 2,
                 "owner": "ppy",
                 "repo": "osu-deploy",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "lazer",
                   "osu"
@@ -1794,7 +1794,7 @@
                 "id": 994154409,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-23T03:03:44Z",
+                "last_commit": "2026-09-23T21:04:31Z",
                 "open_issues": 0,
                 "owner": "samuelvenable",
                 "repo": "GMAppImager",
@@ -2340,7 +2340,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9428,
+                "stars": 9429,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2428,7 +2428,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9428,
+                "stars": 9429,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:25:00.200Z",
+    "last_updated": "2026-09-24T17:30:07.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
