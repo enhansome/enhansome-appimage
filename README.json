@@ -141,7 +141,7 @@
                 "open_issues": 206,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8333,
+                "stars": 8337,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -162,7 +162,7 @@
                 "open_issues": 214,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -180,7 +180,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-03T17:17:55Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "probonopd",
                 "repo": "go-appimage",
                 "stars": 1179,
@@ -492,7 +492,7 @@
                 "open_issues": 527,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7683,
+                "stars": 7686,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -945,7 +945,7 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:30:26Z",
+                "last_commit": "2026-10-02T05:22:46Z",
                 "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
@@ -1027,7 +1027,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-03T17:17:55Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "probonopd",
                 "repo": "go-appimage",
                 "stars": 1179,
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:39:33Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-02T17:41:22Z",
+                "open_issues": 70,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14668,
+                "stars": 14669,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1463,7 +1463,7 @@
                 "id": 709878230,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-05-17T20:50:23Z",
+                "last_commit": "2026-10-02T11:18:10Z",
                 "open_issues": 4,
                 "owner": "SuperJMN",
                 "repo": "DotnetPackaging",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:32:59.036Z",
+    "last_updated": "2026-10-02T17:59:24.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
