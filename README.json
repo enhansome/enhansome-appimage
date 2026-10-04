@@ -137,8 +137,8 @@
                 "id": 125722945,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-03-09T04:21:55Z",
-                "open_issues": 206,
+                "last_commit": "2026-10-04T16:37:42Z",
+                "open_issues": 205,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
                 "stars": 8342,
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
-                "open_issues": 214,
+                "open_issues": 215,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2250,
+                "stars": 2254,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -180,7 +180,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-03T17:17:55Z",
-                "open_issues": 138,
+                "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
                 "stars": 1180,
@@ -390,7 +390,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2025-10-18T19:40:40Z",
-                "open_issues": 79,
+                "open_issues": 84,
                 "owner": "AppImageCommunity",
                 "repo": "AppImageUpdate",
                 "stars": 733,
@@ -488,11 +488,11 @@
                 "id": 40418146,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T15:18:39Z",
+                "last_commit": "2026-10-04T15:11:14Z",
                 "open_issues": 528,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7686,
+                "stars": 7687,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -606,7 +606,7 @@
                 "id": 399999569,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T06:01:56Z",
+                "last_commit": "2026-10-04T06:32:54Z",
                 "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
@@ -842,7 +842,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9434,
+                "stars": 9435,
                 "topics": [
                   "appimage",
                   "applications",
@@ -945,7 +945,7 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:22:46Z",
+                "last_commit": "2026-10-04T01:37:31Z",
                 "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
@@ -1027,7 +1027,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-03T17:17:55Z",
-                "open_issues": 138,
+                "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
                 "stars": 1180,
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T16:34:07Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-03T17:27:33Z",
+                "open_issues": 72,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14669,
+                "stars": 14668,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1826,7 +1826,7 @@
                 "open_issues": 18,
                 "owner": "TheAssassin",
                 "repo": "appimagelint",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -1898,7 +1898,7 @@
               "description": "Example of how to upload AppImages built using GitHub Actions to GitHub Releases.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "An AppImage for the Zoom desktop application (until Zoom provides an official one)",
                 "homepage": null,
                 "id": 287005869,
@@ -2309,7 +2309,7 @@
                 "open_issues": 30,
                 "owner": "AppImage",
                 "repo": "AppImageSpec",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "appimage",
                   "appimage-format"
@@ -2340,7 +2340,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9434,
+                "stars": 9435,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2428,7 +2428,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9434,
+                "stars": 9435,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:37:26.430Z",
+    "last_updated": "2026-10-04T16:57:18.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
