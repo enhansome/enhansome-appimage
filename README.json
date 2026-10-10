@@ -141,7 +141,7 @@
                 "open_issues": 205,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8351,
+                "stars": 8359,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
-                "open_issues": 216,
+                "open_issues": 217,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2270,
+                "stars": 2272,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -183,7 +183,7 @@
                 "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1185,
+                "stars": 1186,
                 "topics": [
                   "appimage",
                   "go",
@@ -336,7 +336,7 @@
                 "id": 401536150,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-09T18:27:31Z",
+                "last_commit": "2026-10-09T18:35:58Z",
                 "open_issues": 0,
                 "owner": "DejfCold",
                 "repo": "ATG",
@@ -393,7 +393,7 @@
                 "open_issues": 80,
                 "owner": "AppImageCommunity",
                 "repo": "AppImageUpdate",
-                "stars": 737,
+                "stars": 740,
                 "topics": [
                   "appimage",
                   "applications",
@@ -492,7 +492,7 @@
                 "open_issues": 527,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7693,
+                "stars": 7697,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -543,10 +543,10 @@
                 "language": "Python",
                 "license": "Zlib",
                 "last_commit": "2024-10-13T12:58:41Z",
-                "open_issues": 107,
+                "open_issues": 110,
                 "owner": "vinifmor",
                 "repo": "bauh",
-                "stars": 1408,
+                "stars": 1407,
                 "topics": [
                   "appimage",
                   "arch",
@@ -610,7 +610,7 @@
                 "open_issues": 1,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -842,7 +842,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9438,
+                "stars": 9439,
                 "topics": [
                   "appimage",
                   "applications",
@@ -1030,7 +1030,7 @@
                 "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1185,
+                "stars": 1186,
                 "topics": [
                   "appimage",
                   "go",
@@ -1056,7 +1056,7 @@
                 "open_issues": 101,
                 "owner": "linuxdeploy",
                 "repo": "linuxdeploy",
-                "stars": 828,
+                "stars": 829,
                 "topics": [
                   "appimage",
                   "cpp",
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T17:40:17Z",
-                "open_issues": 72,
+                "last_commit": "2026-10-10T17:06:32Z",
+                "open_issues": 62,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14667,
+                "stars": 14665,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1875,7 +1875,7 @@
                 "open_issues": 76,
                 "owner": "Project-LemonLime",
                 "repo": "Project_LemonLime",
-                "stars": 712,
+                "stars": 711,
                 "topics": [
                   "acm",
                   "acm-icpc",
@@ -2340,7 +2340,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9438,
+                "stars": 9439,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2428,7 +2428,7 @@
                 "open_issues": 236,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9438,
+                "stars": 9439,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:28:53.856Z",
+    "last_updated": "2026-10-10T17:26:29.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
