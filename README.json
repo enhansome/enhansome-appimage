@@ -138,10 +138,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-04T16:37:42Z",
-                "open_issues": 205,
+                "open_issues": 206,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8395,
+                "stars": 8398,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -162,7 +162,7 @@
                 "open_issues": 224,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2333,
+                "stars": 2337,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -183,7 +183,7 @@
                 "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1189,
+                "stars": 1190,
                 "topics": [
                   "appimage",
                   "go",
@@ -492,7 +492,7 @@
                 "open_issues": 527,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7711,
+                "stars": 7717,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -842,7 +842,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9451,
+                "stars": 9452,
                 "topics": [
                   "appimage",
                   "applications",
@@ -870,7 +870,7 @@
                 "open_issues": 58,
                 "owner": "nix-community",
                 "repo": "nix-bundle",
-                "stars": 861,
+                "stars": 860,
                 "topics": [
                   "nix"
                 ]
@@ -945,7 +945,7 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-10-23T01:11:57Z",
+                "last_commit": "2026-10-24T02:31:57Z",
                 "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
@@ -1030,7 +1030,7 @@
                 "open_issues": 137,
                 "owner": "probonopd",
                 "repo": "go-appimage",
-                "stars": 1189,
+                "stars": 1190,
                 "topics": [
                   "appimage",
                   "go",
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T17:14:57Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-24T16:05:47Z",
+                "open_issues": 48,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14680,
+                "stars": 14681,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -2187,8 +2187,8 @@
                 "id": 226473496,
                 "language": "Dockerfile",
                 "license": "MIT",
-                "last_commit": "2026-10-22T23:56:22Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-24T12:30:28Z",
+                "open_issues": 0,
                 "owner": "beeware",
                 "repo": "briefcase-linux-appimage-template",
                 "stars": 23,
@@ -2340,7 +2340,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9451,
+                "stars": 9452,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2428,7 +2428,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9451,
+                "stars": 9452,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:23:03.456Z",
+    "last_updated": "2026-10-24T16:11:38.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
