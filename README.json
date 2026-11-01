@@ -141,7 +141,7 @@
                 "open_issues": 207,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8422,
+                "stars": 8423,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -162,7 +162,7 @@
                 "open_issues": 223,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2359,
+                "stars": 2362,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -488,11 +488,11 @@
                 "id": 40418146,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-31T05:41:48Z",
-                "open_issues": 523,
+                "last_commit": "2026-11-01T15:37:00Z",
+                "open_issues": 522,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7726,
+                "stars": 7727,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -606,7 +606,7 @@
                 "id": 399999569,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:32:31Z",
+                "last_commit": "2026-11-01T07:00:36Z",
                 "open_issues": 1,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
@@ -945,7 +945,7 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-10-29T03:15:47Z",
+                "last_commit": "2026-11-01T00:57:21Z",
                 "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
@@ -1114,7 +1114,7 @@
                 "open_issues": 20,
                 "owner": "niess",
                 "repo": "python-appimage",
-                "stars": 222,
+                "stars": 223,
                 "topics": [
                   "appimage",
                   "python"
@@ -1190,7 +1190,7 @@
                 "open_issues": 5,
                 "owner": "niess",
                 "repo": "linuxdeploy-plugin-python",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "appimage",
                   "linuxdeploy",
@@ -1219,11 +1219,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T17:13:26Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-01T17:01:11Z",
+                "open_issues": 51,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14694,
+                "stars": 14697,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1727,7 +1727,7 @@
                 "id": 533532287,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-31T09:12:23Z",
+                "last_commit": "2026-11-01T13:15:22Z",
                 "open_issues": 1,
                 "owner": "valicm",
                 "repo": "appimage-bash",
@@ -1871,8 +1871,8 @@
                 "id": 175633592,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T17:16:43Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-01T11:12:15Z",
+                "open_issues": 72,
                 "owner": "Project-LemonLime",
                 "repo": "Project_LemonLime",
                 "stars": 716,
@@ -2506,7 +2506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:20:04.782Z",
+    "last_updated": "2026-11-01T18:03:34.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
