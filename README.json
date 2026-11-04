@@ -141,7 +141,7 @@
                 "open_issues": 207,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8425,
+                "stars": 8426,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -162,7 +162,7 @@
                 "open_issues": 224,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2370,
+                "stars": 2373,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -488,8 +488,8 @@
                 "id": 40418146,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-03T13:31:01Z",
-                "open_issues": 525,
+                "last_commit": "2026-11-04T10:03:51Z",
+                "open_issues": 524,
                 "owner": "netblue30",
                 "repo": "firejail",
                 "stars": 7726,
@@ -546,7 +546,7 @@
                 "open_issues": 110,
                 "owner": "vinifmor",
                 "repo": "bauh",
-                "stars": 1413,
+                "stars": 1414,
                 "topics": [
                   "appimage",
                   "arch",
@@ -1111,7 +1111,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-02T05:54:01Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "niess",
                 "repo": "python-appimage",
                 "stars": 223,
@@ -1219,8 +1219,8 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T19:41:18Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-04T18:44:48Z",
+                "open_issues": 55,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
                 "stars": 14699,
@@ -1235,11 +1235,9 @@
                   "electron",
                   "electron-builder",
                   "electron-updater",
-                  "help-wanted",
                   "linux",
                   "macos",
                   "msi",
-                  "muon",
                   "nsis",
                   "pkg",
                   "rpm",
@@ -2506,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:44:23.636Z",
+    "last_updated": "2026-11-04T19:58:53.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
