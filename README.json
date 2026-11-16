@@ -94,7 +94,7 @@
                 "open_issues": 207,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8466,
+                "stars": 8471,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -115,7 +115,7 @@
                 "open_issues": 228,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2399,
+                "stars": 2405,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -436,11 +436,11 @@
                 "id": 40418146,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-15T16:05:49Z",
-                "open_issues": 528,
+                "last_commit": "2026-11-16T12:40:58Z",
+                "open_issues": 532,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7737,
+                "stars": 7738,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -744,7 +744,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9467,
+                "stars": 9466,
                 "topics": [
                   "appimage",
                   "applications",
@@ -847,8 +847,8 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-11-13T23:28:01Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-16T18:37:18Z",
+                "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
                 "stars": 39,
@@ -903,7 +903,7 @@
                 "open_issues": 212,
                 "owner": "probonopd",
                 "repo": "linuxdeployqt",
-                "stars": 2474,
+                "stars": 2473,
                 "topics": [
                   "appimage",
                   "applications",
@@ -992,6 +992,27 @@
                 ]
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AppImage Packaging",
+              "description": "Skills for Claude and other coding agents (Codex, Cursor, OpenCode, ...) that package Linux applications as self-contained AppImages, build and publish them from GitHub Actions, and verify and troubleshoot them on other distributions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claude plugin: package any Linux application as a self-contained AppImage that runs on every distribution, build and publish it from GitHub Actions, verify and troubleshoot it",
+                "homepage": null,
+                "id": 1432239421,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-24T15:39:55Z",
+                "open_issues": 0,
+                "owner": "AppImageCommunity",
+                "repo": "AppImagePackaging",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-16T22:27:37.321Z"
             }
           ],
           "description": null,
@@ -1121,11 +1142,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T17:13:35Z",
-                "open_issues": 59,
+                "last_commit": "2026-11-16T20:38:00Z",
+                "open_issues": 53,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14711,
+                "stars": 14713,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1382,7 +1403,7 @@
                 "open_issues": 2,
                 "owner": "ppy",
                 "repo": "osu-deploy",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "lazer",
                   "osu"
@@ -2152,7 +2173,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9467,
+                "stars": 9466,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2214,7 +2235,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9467,
+                "stars": 9466,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2264,7 +2285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:03:11.873Z",
+    "last_updated": "2026-11-16T22:27:37.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
@@ -2272,8 +2293,8 @@
       "id": 284008546,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-14T09:56:55Z",
-      "open_issues": 6,
+      "last_commit": "2026-11-16T18:44:42Z",
+      "open_issues": 7,
       "owner": "AppImageCommunity",
       "repo": "awesome-appimage",
       "stars": 617,
@@ -2285,7 +2306,7 @@
         "package-creation"
       ]
     },
-    "original_repository_sha": "fcdcf2f05e7b4bbe981f2b1dd2445a1e5263fffe",
+    "original_repository_sha": "3634443657f8fb445a4c3f7266f46e431697fbdd",
     "enhanced_repository": "enhansome/enhansome-appimage",
     "enhanced_repository_description": null,
     "title": "Awesome AppImage with stars"
