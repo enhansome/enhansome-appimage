@@ -94,7 +94,7 @@
                 "open_issues": 207,
                 "owner": "TheAssassin",
                 "repo": "AppImageLauncher",
-                "stars": 8489,
+                "stars": 8487,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -112,10 +112,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-22T19:16:16Z",
-                "open_issues": 233,
+                "open_issues": 236,
                 "owner": "mijorus",
                 "repo": "gearlever",
-                "stars": 2418,
+                "stars": 2426,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -338,10 +338,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-30T20:10:11Z",
-                "open_issues": 87,
+                "open_issues": 83,
                 "owner": "AppImageCommunity",
                 "repo": "AppImageUpdate",
-                "stars": 770,
+                "stars": 772,
                 "topics": [
                   "appimage",
                   "applications",
@@ -436,11 +436,11 @@
                 "id": 40418146,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-18T12:29:35Z",
-                "open_issues": 529,
+                "last_commit": "2026-11-23T16:35:16Z",
+                "open_issues": 528,
                 "owner": "netblue30",
                 "repo": "firejail",
-                "stars": 7747,
+                "stars": 7749,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "ivan-hc",
                 "repo": "AppMan",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:18.332Z"
@@ -744,7 +744,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9467,
+                "stars": 9469,
                 "topics": [
                   "appimage",
                   "applications",
@@ -847,8 +847,8 @@
                 "id": 430368975,
                 "language": "Starlark",
                 "license": "MIT",
-                "last_commit": "2026-11-19T06:57:25Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-23T02:29:34Z",
+                "open_issues": 17,
                 "owner": "lalten",
                 "repo": "rules_appimage",
                 "stars": 39,
@@ -903,7 +903,7 @@
                 "open_issues": 212,
                 "owner": "probonopd",
                 "repo": "linuxdeployqt",
-                "stars": 2471,
+                "stars": 2470,
                 "topics": [
                   "appimage",
                   "applications",
@@ -1142,11 +1142,11 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T17:10:30Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-23T22:53:56Z",
+                "open_issues": 37,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
-                "stars": 14723,
+                "stars": 14726,
                 "topics": [
                   "appx",
                   "auto-update",
@@ -1341,7 +1341,7 @@
                 "open_issues": 6,
                 "owner": "kuiperzone",
                 "repo": "PupNet-Deploy",
-                "stars": 261,
+                "stars": 260,
                 "topics": [
                   "appimage",
                   "csharp",
@@ -1832,7 +1832,7 @@
                 "open_issues": 1,
                 "owner": "antony-jr",
                 "repo": "QAppImageUpdate",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "appimage",
                   "appimage-updater-bridge",
@@ -2173,7 +2173,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9467,
+                "stars": 9469,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2235,7 +2235,7 @@
                 "open_issues": 238,
                 "owner": "AppImage",
                 "repo": "AppImageKit",
-                "stars": 9467,
+                "stars": 9469,
                 "topics": [
                   "appimage",
                   "applications",
@@ -2285,7 +2285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T19:55:49.038Z",
+    "last_updated": "2026-11-24T00:15:41.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lovingly crafted AppImage tools and resources ",
